@@ -76,7 +76,7 @@
 
 [FOREIGN KEY Constraint](https://github.com/kizmo04/homework/blob/master/SQL/170128_SQL_03.md#foreign-key-constraint)
 
-[ CHECK Constraint](https://github.com/kizmo04/homework/blob/master/SQL/170128_SQL_03.md#-check-constraint)
+[ CHECK Constraint](https://github.com/kizmo04/homework/blob/master/SQL/170128_SQL_03.md#check-constraint)
 
 [DEFAULT Constraint](https://github.com/kizmo04/homework/blob/master/SQL/170128_SQL_03.md#default-constraint)
 
@@ -86,7 +86,7 @@
 
 [ALTER TABLE](https://github.com/kizmo04/homework/blob/master/SQL/170128_SQL_03.md#alter-table)
 
-[AUTO INCREMENT ](https://github.com/kizmo04/homework/blob/master/SQL/170128_SQL_03.md#auto-increment-)
+[AUTO INCREMENT ](https://github.com/kizmo04/homework/blob/master/SQL/170128_SQL_03.md#auto-increment)
 
 ### SQL_04.md
 
